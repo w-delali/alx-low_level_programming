@@ -5,10 +5,11 @@
 *main - Main function
 *
 *
-*return: return 0 default
+*Return: return 0 default
 */
 int main(void)
 {
+
 	char displayed[52];
 
 	strcpy(displayed, "\"Programming is like building a multilingual puzzle");
