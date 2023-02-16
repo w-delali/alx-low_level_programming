@@ -3,7 +3,7 @@
 *main - Main function
 *
 *
-*return: return 0 default
+*Return: return 0 default
 */
 int main(void)
 {
