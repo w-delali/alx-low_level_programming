@@ -5,7 +5,7 @@
 *main - Main function
 *
 *
-*return: return 0
+*return: return 0 default
 */
 int main(void)
 {
