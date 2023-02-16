@@ -1,7 +1,17 @@
 #include <stdio.h>
+#include <string.h>
 
-int main() {
-    puts("\"Programming is like building a multilingual puzzle");
-    return 0;
+/**
+*main - Main function
+*
+*
+*return: return 0
+*/
+int main(void)
+{
+	char displayed[52];
+
+	strcpy(displayed, "\"Programming is like building a multilingual puzzle");
+	puts(displayed);
+	return (0);
 }
-
