@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - where program start to read from
+ * Return: 0
  */
 int main(void)
 {
