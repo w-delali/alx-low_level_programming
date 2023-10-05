@@ -1,4 +1,7 @@
 #include <stdio.h>
+/**
+ * main - where program start to read from
+ */
 int main(void)
 {
 		char sentence[] = "\"Programming is like building a multilingual puzzle";
