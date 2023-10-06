@@ -25,3 +25,6 @@
 
 ### 7-print_tebahpla
 - prints the lowercase alphabet in reverse
+
+### 8-print_base16
+- prints all the numbers of base 16 in lowercase
