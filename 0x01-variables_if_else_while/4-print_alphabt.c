@@ -1,4 +1,4 @@
-nclude <stdio.h>
+<include <stdio.h>
 
 /**
  * main - print alphabets except q and e
