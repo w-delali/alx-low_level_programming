@@ -31,3 +31,6 @@
 
 ### 9-print_comb
 - prints all possible combinations of single-digit numbers
+
+### 100-print_comb3
+- program that prints all possible different combinations of two digits
