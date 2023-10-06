@@ -19,3 +19,6 @@
 
 ### 5-print_numbers
 - prints all single digits numbers of base 10
+
+### 6-print_numberz
+- prints all single digit numbers of base 10 starting from 0
