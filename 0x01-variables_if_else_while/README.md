@@ -10,3 +10,6 @@
 
 ### 2-print_alphabet
 - prints the aplhabets in lowercase
+
+### 3-print_alphabets
+- prints the alphabet in lowercase, and then in uppercase
