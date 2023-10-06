@@ -34,3 +34,6 @@
 
 ### 100-print_comb3
 - program that prints all possible different combinations of two digits
+
+### 101-print_comb4
+- prints all possible different combinations of three digits
