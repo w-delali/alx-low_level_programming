@@ -28,3 +28,6 @@
 
 ### 8-print_base16
 - prints all the numbers of base 16 in lowercase
+
+### 9-print_comb
+- prints all possible combinations of single-digit numbers
