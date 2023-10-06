@@ -16,3 +16,6 @@
 
 ### 4-print_alphabt
 - print alphabets in lowercase except **q** and **e**
+
+### 5-print_numbers
+- prints all single digits numbers of base 10
