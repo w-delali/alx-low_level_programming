@@ -7,3 +7,6 @@
 
 ### 1-last_digit
 - print the last digit stored in the var **n** .
+
+### 2-print_alphabet
+- prints the aplhabets in lowercase
