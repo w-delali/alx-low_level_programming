@@ -13,3 +13,6 @@
 
 ### 3-print_alphabets
 - prints the alphabet in lowercase, and then in uppercase
+
+### 4-print_alphabt
+- print alphabets in lowercase except **q** and **e**
