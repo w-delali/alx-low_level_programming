@@ -37,3 +37,6 @@
 
 ### 101-print_comb4
 - prints all possible different combinations of three digits
+
+### 102-print_comb5.c
+- program that prints all possible combinations of two two-digit numbers
