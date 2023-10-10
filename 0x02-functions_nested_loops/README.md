@@ -10,3 +10,6 @@
 
 ### 2-print_alphabet_x10
 - function that prints 10 times the alphabet, in lowercase
+
+### 3-islower
+- a function that checks for lowercase character
