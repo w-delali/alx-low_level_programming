@@ -16,3 +16,6 @@
 
 ### 4-isalpha
 - function that checks for alphabetic character
+
+### 5-sign
+- a function that prints the sign of a number
