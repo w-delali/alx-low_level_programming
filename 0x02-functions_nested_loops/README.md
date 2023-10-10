@@ -19,3 +19,6 @@
 
 ### 5-sign
 - a function that prints the sign of a number
+
+### 6-abs
+- function that computes the absolute value of an integer
