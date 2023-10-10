@@ -34,3 +34,6 @@
 
 ### 10-add
 - function that adds two integers and returns the result
+
+### 11-print_to_98
+- function that prints all natural numbers from n to 98
