@@ -31,3 +31,6 @@
 
 ### 9-times_table
 - function that prints the 9 times table, starting with 0.
+
+### 10-add
+- function that adds two integers and returns the result
