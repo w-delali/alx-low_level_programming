@@ -37,3 +37,6 @@
 
 ### 11-print_to_98
 - function that prints all natural numbers from n to 98
+
+### 100-times_table
+- a function that prints the n times table, starting with 0
