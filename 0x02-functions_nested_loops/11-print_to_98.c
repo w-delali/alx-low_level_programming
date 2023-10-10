@@ -23,14 +23,3 @@ void print_to_98(int n) {
         printf("%d\n", n);
     }
 }
-
-int main() {
-    int n;
-    printf("Enter a number: ");
-    scanf("%d", &n);
-
-    print_to_98(n);
-
-    return 0;
-}
-
