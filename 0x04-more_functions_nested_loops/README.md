@@ -25,3 +25,6 @@
 
 ### 7-print_diagonal
 - function that draws a diagonal line on the terminal.
+
+### 8-print_square
+- a function that prints a square
