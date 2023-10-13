@@ -1,34 +1,34 @@
 #include <stdio.h>
 
 /**
- * main - prints the numbers from 1 to 100
- * but for multiples of 3 print Fizz
- * and with multiples of 5 print Buzz
- * and if it multiple of both 3 & 5 print FizzBuzz
- * Return: 0
+ * main - prints .
+ * Return: 0.
  */
 int main(void)
 {
-	int i;
+	int n;
 
-	for (i = 1; i <= 100; i++)
+	n = 1;
+	printf("%d", n);
+	for (n = 2; n <= 100; n++)
 	{
-		if (i % 3 == 0 && i % 5 == 0)
+		if ((n % 3 == 0) && (n % 5 == 0))
 		{
 			printf(" FizzBuzz");
-		} else if (i % 3 == 0)
+		}
+		else if (n % 3 == 0)
 		{
 			printf(" Fizz");
-		} else if (i % 5 == 0)
+		}
+		else if (n % 5 == 0)
 		{
 			printf(" Buzz");
-		} else
+		}
+		else
 		{
-			printf(" %d", i);
+			printf(" %d", n);
 		}
 	}
 	printf("\n");
-
 	return (0);
 }
-
