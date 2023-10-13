@@ -16,3 +16,6 @@
 
 ### 4-print_most_numbers
 - function that prints the numbers, from 0 to 9 except 2 and 4
+
+### 5-more_numbers
+- function that prints 10 times the numbers, from 0 to 14
