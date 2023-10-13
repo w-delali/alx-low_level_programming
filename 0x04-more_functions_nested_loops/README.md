@@ -7,3 +7,6 @@
 
 ### 1-isdigit
 - function that checks for a digit (0 through 9)
+
+### 2-mul
+- function that multiplies two integers
