@@ -19,3 +19,6 @@
 
 ### 5-more_numbers
 - function that prints 10 times the numbers, from 0 to 14
+
+### 6-print_line
+- function that draws a straight line in the terminal
