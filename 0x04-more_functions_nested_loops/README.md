@@ -28,3 +28,6 @@
 
 ### 8-print_square
 - a function that prints a square
+
+### 9-fizz_buzz
+- FizzBuzz test
