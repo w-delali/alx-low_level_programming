@@ -5,7 +5,7 @@
  * but for multiples of 3 print Fizz
  * and with multiples of 5 print Buzz
  * and if it multiple of both 3 & 5 print FizzBuzz
- * Return: Always 0 (Success)
+ * Return: 0
  */
 int main(void)
 {
@@ -16,12 +16,12 @@ int main(void)
 		if (i % 3 == 0 && i % 5 == 0)
 		{
 			printf(" FizzBuzz");
-		} else if (i % 5 == 0 && i % 3 != 0)
-		{
-			printf(" Buzz");
-		} else if (i % 3 == 0 && i % 5 != 0)
+		} else if (i % 3 == 0)
 		{
 			printf(" Fizz");
+		} else if (i % 5 == 0)
+		{
+			printf(" Buzz");
 		} else
 		{
 			printf(" %d", i);
