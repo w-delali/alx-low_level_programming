@@ -37,3 +37,6 @@
 
 ### 100-prime_factor
 - program that finds and prints the largest prime factor of the number 612852475143
+
+### 101-print_number
+- Write a function that prints an integer.
