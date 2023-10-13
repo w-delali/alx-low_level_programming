@@ -31,3 +31,6 @@
 
 ### 9-fizz_buzz
 - FizzBuzz test
+
+### 10-print_triangle
+- function that prints a triangle
