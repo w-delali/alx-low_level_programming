@@ -10,3 +10,6 @@
 
 ### 2-strlen
 - function that returns the length of a string
+
+### 3-puts
+- function that prints a string, followed by a new line, to stdout.
