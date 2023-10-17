@@ -25,3 +25,6 @@
 
 ### 7-puts_half
 - function that prints half of a string
+
+### 8-print_array
+- function that prints n elements of an array of integers
