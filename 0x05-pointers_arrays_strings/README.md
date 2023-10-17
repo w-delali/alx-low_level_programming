@@ -7,3 +7,6 @@
 
 ### 1-swap
 - function to swap the values of two variables
+
+### 2-strlen
+- function that returns the length of a string
