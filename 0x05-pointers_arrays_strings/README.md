@@ -28,3 +28,6 @@
 
 ### 8-print_array
 - function that prints n elements of an array of integers
+
+### 9-strcpy
+- function that copies the string pointed to by src, including the terminating null byte (0), to the buffer pointed to by dest
