@@ -14,8 +14,11 @@
 ### 3-puts
 - function that prints a string, followed by a new line, to stdout.
 
-### 4-print_rev.c
+### 4-print_rev
 - function that prints a string, in reverse, followed by a new line.
 
 ### 5-rev_string
 - function to reverse a string
+
+### 6-put2
+- a function that prints every other character of a string, starting with the first character
