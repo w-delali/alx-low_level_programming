@@ -22,3 +22,6 @@
 
 ### 6-put2
 - a function that prints every other character of a string, starting with the first character
+
+### 7-puts_half
+- function that prints half of a string
