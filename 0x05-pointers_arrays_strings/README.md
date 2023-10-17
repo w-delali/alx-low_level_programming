@@ -34,3 +34,6 @@
 
 ### 100-atoi
 - function that convert a string to an integer
+
+### 101-keygen
+- program that generates random valid passwords for the program <a href="https://github.com/alx-tools/0x04.c">101-crackme.</a>
