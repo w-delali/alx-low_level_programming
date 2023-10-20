@@ -5,7 +5,7 @@
  * @dest: 1st string value
  * @src: 2nd string value
  * @n: the number of bytes to use from src.
- * Return: pointer
+ * Return: string
  */
 
 char *_strncpy(char *dest, char *src, int n)
